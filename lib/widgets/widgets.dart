@@ -1,0 +1,10 @@
+export 'package:application_movies/widgets/card_swiper.dart';
+export 'package:application_movies/widgets/cast_card.dart';
+export 'package:application_movies/widgets/casting_cards.dart';
+export 'package:application_movies/widgets/custom_appbar.dart';
+export 'package:application_movies/widgets/movie_overview.dart';
+export 'package:application_movies/widgets/movie_poster_title.dart';
+export 'package:application_movies/widgets/movie_poster.dart';
+export 'package:application_movies/widgets/movie_slider.dart';
+export 'package:application_movies/widgets/empty_container.dart';
+export 'package:application_movies/widgets/movie_item.dart';
